@@ -42,7 +42,7 @@ function Footer() {
               </ul>
             </div>
             <div class="copyrights mt-4">
-              © 2021 <a class='text-decoration-underline' href="https://github.com/SuccessfullSites">SuccessfullSite</a> Theme. All rights reserved
+              © 2021 <a class='text-decoration-underline' href="#"></a>All rights reserved
             </div>
           </div>
           <div class="col-12 col-md-2 badges">
